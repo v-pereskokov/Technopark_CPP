@@ -1,2 +1,7 @@
-# Technopark_CPP
-Course of CPP 
+# C tasks
+
+Compile
+
+```cpp
+gcc [file] -o [execute file name]
+```
